@@ -29,7 +29,7 @@ const questions = [{
     {
         type: 'input',
         name: 'howToContribute',
-        message: 'Enter the contribution guidelines',
+        message: 'How to contribute',
     },
     {
         type: 'input',
