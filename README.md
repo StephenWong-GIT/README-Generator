@@ -3,6 +3,11 @@
   [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT) 
   ## Description
   A node.js application that creates a generated README.md file
+
+  ## Video Walkthrough
+  Here is a link to a video MP4 file on how to use this README Generator. 
+  "https://github.com/StephenWong-GIT/README-Generator/blob/main/assets/node%20index.js.mp4"
+  
   ## Table of Contents
   - [Installation](#installation)
   - [Usage](#usage)
